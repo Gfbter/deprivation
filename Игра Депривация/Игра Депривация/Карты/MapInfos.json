@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Комната Аарона","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":2,"expanded":true,"name":"Аудитория","order":2,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":true,"name":"Улицы","order":3,"parentId":2,"scrollX":1081.3333333333333,"scrollY":641.3333333333334},
+{"id":4,"expanded":true,"name":"Тестовые апартаменты","order":4,"parentId":3,"scrollX":811,"scrollY":463},
+{"id":5,"expanded":true,"name":"ТРЦ Разводилово","order":5,"parentId":4,"scrollX":3670.6666666666665,"scrollY":1289.3333333333333},
+{"id":6,"expanded":true,"name":"Лестничный пролёт 1","order":6,"parentId":5,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
+{"id":7,"expanded":true,"name":"Лестничный пролёт 2","order":7,"parentId":6,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
+{"id":8,"expanded":true,"name":"Лестничный пролёт Реал","order":8,"parentId":7,"scrollX":540.6666666666666,"scrollY":319.3333333333333},
+{"id":9,"expanded":false,"name":"финал","order":9,"parentId":3,"scrollX":783,"scrollY":491},
+{"id":10,"expanded":false,"name":"загадка","order":10,"parentId":3,"scrollX":1081.3333333333333,"scrollY":873.3333333333334},
+{"id":11,"expanded":true,"name":"парк","order":11,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":12,"expanded":true,"name":"Дом дины","order":12,"parentId":11,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333},
+{"id":13,"expanded":false,"name":"кафе","order":13,"parentId":12,"scrollX":540.6666666666666,"scrollY":479.3333333333333},
+{"id":14,"expanded":false,"name":"коридор П","order":15,"parentId":0,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
+{"id":15,"expanded":true,"name":"Дом дины","order":14,"parentId":12,"scrollX":1081.3333333333333,"scrollY":1012}
+]
